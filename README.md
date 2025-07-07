@@ -19,9 +19,9 @@ This is a simple manual **IC tester circuit** used to test **logic gates ICs**. 
 - 2 × **IC Sockets** (14-pin)
 - ![Image](https://github.com/user-attachments/assets/6fd0ba95-add0-45b5-9b5c-85b06c72f854)
 - 2 × **Micro Push Buttons** for logic inputs
--![Image](https://github.com/user-attachments/assets/2835f860-1698-48f6-ae73-88abf8ed692b)
+-![Image](https://github.com/user-attachments/assets/eb0090bf-5895-49fc-afba-016d8780cab0)
 - 1 × **Push Buttons** for power supply
-- ![Image](https://github.com/user-attachments/assets/49899364-29bd-4753-b1d1-96f396cd397a)
+- ![Image](https://github.com/user-attachments/assets/bbe749cb-0f60-4475-b7a8-3a8cb4359b2c)
 - 2 × **Red LEDs** for input indicators
 - 12 × **Green LEDs** for output indication (6 per socket)
 - ![Image](https://github.com/user-attachments/assets/a06df766-b71c-410c-9716-d055851a9034)
