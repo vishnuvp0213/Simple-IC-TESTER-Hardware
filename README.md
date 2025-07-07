@@ -29,7 +29,12 @@ This is a simple manual **IC tester circuit** used to test **logic gates ICs**. 
 - A toggle switch is used to turn power ON/OFF.
 
 ## 📷 Images
+**Circuit Diagram**
 ![Image](https://github.com/user-attachments/assets/f43aa86d-d323-434d-b536-8391fa28a7e4)
+
+**Hardware implementation**
+![Image](https://github.com/user-attachments/assets/a724c702-bf93-465e-a195-52a642446509)
+
 
 ## 📃 Truth Tables
 
