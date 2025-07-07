@@ -29,7 +29,7 @@ This is a simple manual **IC tester circuit** used to test **logic gates ICs**. 
 - ![Image](https://github.com/user-attachments/assets/bbe749cb-0f60-4475-b7a8-3a8cb4359b2c)
  
 - 2 × **Red LEDs** for input indicators
-- 12 × **Green LEDs** for output indication (6 per socket)
+- 10 × **Green LEDs** for output indication (4 in left socket and 6 in right socket)
 
 - ![Image](https://github.com/user-attachments/assets/a06df766-b71c-410c-9716-d055851a9034)
   
