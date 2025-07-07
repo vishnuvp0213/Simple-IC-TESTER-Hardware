@@ -97,6 +97,9 @@ This is a simple manual **IC tester circuit** used to test **logic gates ICs**. 
 | 0 |     1     |
 | 1 |     0     |
 
+## Tinker cad simulation
+https://www.tinkercad.com/things/aOohTY0IoSs-ic-tester
+
 ## 📝 Instructions:
 1. Insert the IC into the correct socket:
    - **Left socket**: AND, OR, NAND, XNOR
